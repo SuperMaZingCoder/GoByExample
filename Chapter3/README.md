@@ -1,3 +1,5 @@
+# Chapter 3 - [Setup Go Workspaces and Hello World Program](https://golangbyexample.com/workspace-hello-world-golang)
+
 ### **GOROOT**: `/usr/lib/go`
 > It is the location of your GO SDK. GO binary distribution assumes this location to be /usr/local/go for Linux/MAC platforms and  c:\Go for Windows. But GO SDK can also be installed in a custom location. In case it is installed to a custom location, then GOROOT should point to that directory.  GOROOT should only be set when installing GO to a custom location or when you want to maintain different versions of GO
 
